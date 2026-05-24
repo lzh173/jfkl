@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-05-24T08:34:48.947Z",
+  "last_sync": "2026-05-24T10:44:00.365Z",
   "total_tools": 3,
   "domains": [
     {
@@ -12,7 +12,7 @@
       "domain": "maxlhy0424.is-a.dev",
       "cache_file": "maxlhy0424_is_a_dev_clra_manifest.json",
       "tool_name": "SCLTK",
-      "version": "7.2.0 (Insider Preview)"
+      "version": "7.2.0 (Insider)"
     },
     {
       "domain": "sbzm.lzh173.chat",

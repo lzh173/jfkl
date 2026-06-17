@@ -1,12 +1,18 @@
 {
-  "last_sync": "2026-06-16T22:55:38.301Z",
-  "total_tools": 1,
+  "last_sync": "2026-06-17T11:04:21.142Z",
+  "total_tools": 2,
   "domains": [
     {
       "domain": "clib.cc.cd",
       "cache_file": "clib_cc_cd_clra_manifest.json",
       "tool_name": "Classroom Liberator",
       "version": "B11"
+    },
+    {
+      "domain": "maxlhy0424.is-a.dev",
+      "cache_file": "maxlhy0424_is_a_dev_clra_manifest.json",
+      "tool_name": "SCLTK / SCLTK-Legacy",
+      "version": "7.2.0 (Insider)"
     }
   ],
   "version": "1.0.0"

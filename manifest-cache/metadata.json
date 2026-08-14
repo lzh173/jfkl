@@ -1,17 +1,12 @@
 {
-  "last_sync": "2026-08-14T11:52:20.725Z",
-  "total_tools": 2,
+  "last_sync": "2026-08-14T13:14:08.504Z",
+  "total_tools": 1,
   "domains": [
     {
       "domain": "clib.cc.cd",
       "cache_file": "clib_cc_cd_clra_manifest.json",
       "tool_name": "Classroom Liberator",
       "version": "B11"
-    },
-    {
-      "domain": "*.jfglss.icu",
-      "cache_file": "__jfglss_icu_jfkl_manifest.json",
-      "version": "0.0.20"
     }
   ],
   "version": "1.0.0"

@@ -1,12 +1,18 @@
 {
-  "last_sync": "2026-08-29T02:00:51.539Z",
-  "total_tools": 1,
+  "last_sync": "2026-08-29T12:30:20.725Z",
+  "total_tools": 2,
   "domains": [
     {
       "domain": "clib.cc.cd",
       "cache_file": "clib_cc_cd_clra_manifest.json",
       "tool_name": "Classroom Liberator",
       "version": "B11"
+    },
+    {
+      "domain": "*.jfglss.icu",
+      "cache_file": "__jfglss_icu_jfkl_manifest.json",
+      "tool_name": "机房管理杀手",
+      "version": "0.21 beta4"
     }
   ],
   "version": "1.0.0"

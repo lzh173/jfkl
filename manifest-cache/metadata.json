@@ -1,12 +1,18 @@
 {
-  "last_sync": "2026-09-23T11:06:18.814Z",
-  "total_tools": 2,
+  "last_sync": "2026-09-23T16:27:49.823Z",
+  "total_tools": 3,
   "domains": [
     {
       "domain": "clib.cc.cd",
       "cache_file": "clib_cc_cd_clra_manifest.json",
       "tool_name": "Classroom Liberator",
       "version": "B11"
+    },
+    {
+      "domain": "sbzm.lzh173.chat",
+      "cache_file": "sbzm_lzh173_chat_clra_manifest.json",
+      "tool_name": "助手密码工具箱",
+      "version": "1.3.1-B130b1"
     },
     {
       "domain": "*.jfglss.icu",
